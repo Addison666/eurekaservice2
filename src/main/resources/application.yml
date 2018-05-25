@@ -6,7 +6,7 @@ server:
 #Application name
 spring:
   application:
-    name: micro-service2
+    name: micro-service
 
 # Discovery Server Access
 eureka:
